@@ -1,0 +1,258 @@
+@media only screen and (max-width: 768px) {
+
+.top-head-sec h2 {
+    font-size: 20px;
+
+}
+.top-head-sec p {
+    font-size: 17px;
+}
+.feature-title h3 {
+    text-align: center;
+    font-size: 23px;
+}
+
+.fea-inner {
+    box-shadow: 0px 90px 160px 0px rgb(0 0 0 / 6%);
+    padding: 31px 20px;
+    border-radius: 30px;
+}
+.fea-inner h4 {
+    font-size: 15px;
+}
+.fea-inner p {
+    font-size: 13px;
+}
+.fea-inner img {
+    height: 50px;
+}
+.fea-inner .btn-feat {
+    font-size: 13px;
+}
+.unlock-img h4 {
+    font-size: 12px;
+    text-align: center;
+    color: #e09900;
+}
+.unlock-text h3 {
+    font-size: 18px;
+}
+.unlock-text p {
+    font-size: 12px;
+    font-weight: 300;
+    padding: 0 65px 0;
+    color: #000;
+}
+.unlock-list ul li p {
+    color: #000;
+    position: relative;
+    left: 21px;
+    margin: 0;
+    font-size: 11px;
+    top: -27px;
+}
+.unlock-list ul {
+    padding: 0px 18px 0;
+}
+.unlock-list .btn-fe {
+    font-size: 12px;
+    background-color: #e09900;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 400;
+    padding-top: 14px!important;
+    padding-right: 11px!important;
+    padding-bottom: 14px!important;
+    padding-left: 11px!important;
+    border: 2px solid #fff;
+    box-shadow: 0 0 40px #bbb;
+    width: 56%;
+}
+.unlock-list .btn-fe:hover {
+    font-size: 12px;
+    background-color: #e09900;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 400;
+    padding-top: 14px!important;
+    padding-right: 11px!important;
+    padding-bottom: 14px!important;
+    padding-left: 11px!important;
+    border: 2px solid #fff;
+    box-shadow: 0 0 40px #bbb;
+    width: 56%;
+}
+.faq-head h3 {
+    text-align: center;
+    font-size: 16px;
+    padding: 3px 0 50px;
+}
+.faq-sec .col-md-6 {
+    padding: 0px 12px 0;
+}
+.accordion-item button {
+    font-size: 12px;
+    padding: 3px;
+}
+.still h2 {
+    font-size: 21px;
+    padding: 67px 20px 0;
+    color: #fff;
+    box-sizing: 0 0 3px #bbb;
+    text-shadow: 0 0 10px #888;
+}
+.still p {
+    color: #fff;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 0 8px 0;
+    margin-bottom: 40px;
+}
+.still .btn-fe {
+    font-size: 11px;
+    background-color: #e09900;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 400;
+    padding-top: 14px!important;
+    padding-right: 38px!important;
+    padding-bottom: 14px!important;
+    padding-left: 38px!important;
+    border: 2px solid #fff;
+    box-shadow: 0 0 40px #bbb;
+    width: 64%;
+}
+.still .btn-fe:hover {
+    font-size: 11px;
+    background-color: #e09900;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 400;
+    padding-top: 14px!important;
+    padding-right: 38px!important;
+    padding-bottom: 14px!important;
+    padding-left: 38px!important;
+    border: 2px solid #fff;
+    box-shadow: 0 0 40px #bbb;
+    width: 64%;
+}
+.sat-title h3 {
+    font-size: 20px;
+    padding: 0px 0 40px;
+}
+.outer-section {
+    padding: 0 11px 0;
+}
+.inner-section1 p {
+    color: #fff;
+    font-size: 12px;
+}
+.inner-section1 h3 {
+    color: #fff;
+    font-size: 17px;
+}
+.inner-section2 p {
+    color: #fff;
+    font-size: 12px;
+}
+.inner-section2 h3 {
+    color: #fff;
+    font-size: 17px;
+}
+.outer-section .btn-fe {
+    font-size: 13px;
+    background-color: #e09900;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 400;
+    border: 2px solid #fff;
+    box-shadow: 0 0 40px #bbb;
+    width: 56%;
+}
+.outer-section .btn-fe:hover {
+    font-size: 13px;
+    background-color: #e09900;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 400;
+    border: 2px solid #fff;
+    box-shadow: 0 0 40px #bbb;
+    width: 56%;
+}
+
+.foot-title h5 {
+    color: #fff;
+    font-size: 13px;
+    padding: 0 23px 0;
+    line-height: 37px;
+}
+.foot-sec {
+    padding: 90px 0;
+    background-size: contain;
+    background-position: top center;
+    background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-11.png),linear-gradient( 
+237deg,#46b3ff 0%,#0752fe 100%)!important;
+    background-repeat: no-repeat;
+    height: 95em;
+}
+.foot-title p {
+    color: #fff;
+    font-size: 14px;
+    padding: 18px 0;
+}
+.list-start li {
+    color: #fff;
+    font-size: 15px;
+}
+.foot-sec .btn-fe {
+    font-size: 13px;
+    background-color: #e09900;
+    border-radius: 10px;
+    color: #fff;
+    padding: 15px 0;
+    font-weight: 400;
+    border: 2px solid #fff;
+    box-shadow: 0 0 40px #bbb;
+    width: 72%;
+}
+.foot-sec .btn-fe:hover {
+    font-size: 13px;
+    background-color: #e09900;
+    border-radius: 10px;
+    color: #fff;
+    padding: 15px 0;
+    font-weight: 400;
+    border: 2px solid #fff;
+    box-shadow: 0 0 40px #bbb;
+    width: 72%;
+}
+.cont-foo h3 {
+    color: #fff;
+    font-size: 18px;
+    padding: 28px 20px;
+}
+.top-details h2 {
+    font-size: 23px;}
+    
+    
+    
+.top-details ul li {
+    color: #fff;
+    font-size: 12px;
+}
+
+.top-details ul li i {
+    padding-right: 7px;
+}
+.top-video video {
+    border-radius: 18px;
+    width: 100%;
+    height: 190px;
+}
+.title-webi h5 {
+    padding-top: 28px;
+}
+.webinar-sec {
+    padding: 338px 0 100px;
+}
+}
