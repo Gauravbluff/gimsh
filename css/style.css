@@ -399,9 +399,11 @@ box-shadow: 0 0 40px #bbb;}
 }
 
 .unlock-img1 img {
-    height: 32em;
+    /*height: 32em;*/
     margin-top: -75px;
     box-shadow: 5px 10px;
+    width: 100%;
+    height: auto;
 }
 
 .foot-sec {
