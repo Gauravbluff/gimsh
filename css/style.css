@@ -395,7 +395,15 @@ box-shadow: 0 0 40px #bbb;}
 .unlock-img img {
     height: 32em;
     margin-top: -75px;
+    
 }
+
+.unlock-img1 img {
+    height: 32em;
+    margin-top: -75px;
+    box-shadow: 5px 10px;
+}
+
 .foot-sec {
     padding: 335px 0;
     background-size: contain;
