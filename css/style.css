@@ -67,8 +67,44 @@
     .padding-bottom{padding-bottom: 60px;}
 /* COMMON CSS END */
 
+/*DEMO SEC START*/
+.demo-sec {
+    /*background-position: top;*/
+       background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-01.png),linear-gradient(
+237deg,#0a9a73 0%,#14cd9b 100%)!important;
+    height: 10em;
+    background-repeat: round;
+}
+.demo-sec .wave-img{
+    height: 12em;
+    width: 100%;
+    z-index: 1111111111111111111111;
+    transform: rotateZ(
+-180deg);
+    position: relative;
+    top: 125px;
+}
+.logo-img img {
+    position: absolute;
+    height: 101px;
+    left: 90%;
+    top: 6%;
+    z-index: 111111111111111111111111;
+}
+.bg-img img {
+    position: relative;
+    height: 99px;
+    top: -98px;
+    width: 100%;
+    transform: rotate(
+-180deg);
+}
+/*DEMO SEC END*/
+
+
 /*TOP START*/
-    .top-sec {    background-position: bottom center;    background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-01.png),linear-gradient(237deg,#46b3ff 0%,#0752fe 100%)!important;  height: 87em;    background-repeat: no-repeat;}
+    .top-sec {    background-position: bottom center;           background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-01.png),linear-gradient(
+237deg,#0a9a73 0%,#14cd9b 100%)!important;  height: 87em;    background-repeat: no-repeat;}
     .top-head-sec{padding: 120px 0 0;}
     .top-head-sec h2 {    font-size: 52px;    color: #fff;    text-shadow: 0 0 9px #625b5b;}
     .top-head-sec p {    font-size: 21px;    color: #fff;    font-weight: 300;    padding-top: 10px;}
@@ -77,7 +113,11 @@
     .top-details ul li {  color: #fff;    font-size: 18px;    font-weight: 500;    line-height: 32px;}
     .top-details h2 {    padding-bottom: 22px;}
     .top-details ul li i {    padding-right: 26px;}
-    .top-video video {    border-radius: 40px;    width: 100%;}
+    .top-video video {
+    border-radius: 9px;
+    width: 100%;
+    box-shadow: 0 0 10px #000;
+}
     .top-video img {margin-top: 76px;    border-radius: 20px;}
 
 /*TOP END*/
@@ -205,7 +245,7 @@ box-shadow: 0 0 40px #bbb;}
     border-color: rgba(15,15,15,0.98)!important;}
 
 .unlock-img h4 {
-    font-size: 17px;
+    font-size: 25px;
     text-align: center;
     color: #e09900;
 }
@@ -242,7 +282,7 @@ box-shadow: 0 0 40px #bbb;}
     background-position: top;
     background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-02.png),linear-gradient( 
 150deg,#ffba61 0%,#ffe970 100%)!important;
-    height: 35em;
+    height: 42em;
     background-repeat: no-repeat;
 }
 .still h2 {
@@ -283,8 +323,8 @@ box-shadow: 0 0 40px #bbb;}
 
 /*satis start*/
 .inner-section1{background-position: bottom left;
-    background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-06.png),linear-gradient(
-237deg,#46b3ff 0%,#0752fe 100%);
+   background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-06.png),linear-gradient(
+237deg,#14cd9b 0%,#0a9a73 100%);
     background-color: #7EBEC5;
     border-radius: 24px 24px 24px 24px;
     overflow: hidden;
@@ -352,13 +392,16 @@ box-shadow: 0 0 40px #bbb;}
 
 /*footer start*/
 
-
+.unlock-img img {
+    height: 32em;
+    margin-top: -75px;
+}
 .foot-sec {
     padding: 335px 0;
     background-size: contain;
     background-position: top center;
     background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-11.png),linear-gradient( 
-237deg,#46b3ff 0%,#0752fe 100%)!important;
+237deg,#0a9a73  0%,#14cd9b  100%)!important;
     background-repeat: no-repeat;
     height: 65em;
 }
@@ -431,3 +474,7 @@ box-shadow: 0 0 40px #bbb;}
 .form-div .btn-fe:hover{color: #ffffff!important;
     background-color: rgba(31,183,102,0.94);
     border-color: rgba(15,15,15,0.98)!important;}
+.foot-sec button {
+    margin-bottom: 25px;
+}
+

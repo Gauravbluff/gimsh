@@ -1,7 +1,7 @@
 @media only screen and (max-width: 768px) {
 
 .top-head-sec h2 {
-    font-size: 40px;
+    font-size: 20px;
 
 }
 .top-head-sec p {
@@ -14,8 +14,18 @@
 
 .fea-inner {
     box-shadow: 0px 90px 160px 0px rgb(0 0 0 / 6%);
-    padding: 31px 20px;
+    padding: 0px 20px;
     border-radius: 30px;
+}
+.unlock-img img {
+    height: 15em;
+    margin-top: -100px;
+}
+.satisf-sec {
+    padding: 0;
+}
+.chat-sec {
+    height: 28em;
 }
 .fea-inner h4 {
     font-size: 15px;
@@ -138,7 +148,7 @@
 }
 .sat-title h3 {
     font-size: 20px;
-    padding: 0px 0 40px;
+    padding: 0px 0 6px;
 }
 .outer-section {
     padding: 0 11px 0;
@@ -193,7 +203,7 @@
     background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-11.png),linear-gradient( 
 237deg,#46b3ff 0%,#0752fe 100%)!important;
     background-repeat: no-repeat;
-    height: 95em;
+    height: 68em;
 }
 .foot-title p {
     color: #fff;
@@ -238,7 +248,7 @@
     
 .top-details ul li {
     color: #fff;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .top-details ul li i {
@@ -250,9 +260,47 @@
     height: 190px;
 }
 .title-webi h5 {
-    padding-top: 0 px;
+    padding-top: 28px;
 }
 .webinar-sec {
-    padding: 208px 0 40px;
+    padding: 2px 0 80px;
+}
+.webi-content h3 {
+    font-size: 14px;
+    padding-bottom: 15px;
+}
+.top-sec {
+    height: 77em;
+}
+.title-webi h3 {
+    font-size: 25px;
+    text-align: center;
+    padding: 5px 0 20px;
+}
+.logo-img img {
+    position: absolute;
+    height: 101px;
+    left: 31%;
+    top: 3%;
+    z-index: 111111111111111111111111;
+}
+.top-head-sec {
+    padding: 53px 0 0;
+}
+.demo-sec {
+    /* background-position: top; */
+    background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-01.png),linear-gradient( 
+237deg,#f8f9fa 0%,#ffffff 100%)!important;
+    height: 8em;
+    background-repeat: no-repeat;
+}
+.demo-sec .wave-img {
+    height: 3em;
+    width: 100%;
+    z-index: 1111111111111111111111;
+    transform: rotateZ( 
+-180deg);
+    position: relative;
+    top: 126px;
 }
 }
