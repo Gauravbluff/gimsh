@@ -1,7 +1,7 @@
 @media only screen and (max-width: 768px) {
 
 .top-head-sec h2 {
-    font-size: 20px;
+    font-size: 40px;
 
 }
 .top-head-sec p {
@@ -238,7 +238,7 @@
     
 .top-details ul li {
     color: #fff;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .top-details ul li i {
@@ -250,9 +250,9 @@
     height: 190px;
 }
 .title-webi h5 {
-    padding-top: 28px;
+    padding-top: 0 px;
 }
 .webinar-sec {
-    padding: 338px 0 100px;
+    padding: 208px 0 40px;
 }
 }
