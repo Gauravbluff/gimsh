@@ -288,7 +288,7 @@
     padding: 53px 0 0;
 }
 .demo-sec {
-    /* background-position: top; */
+     background-position: top; 
     background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-01.png),linear-gradient( 
 237deg,#f8f9fa 0%,#ffffff 100%)!important;
     height: 8em;
