@@ -85,10 +85,10 @@
     top: 125px;
 }
 .logo-img img {
-    position:relative;
+    position: absolute;
     height: 70px;
     left: 1%;
-    top: -185%;
+    top: 8%;
     z-index: 111111111111111111111111;
 }
 .bg-img img {
