@@ -72,7 +72,7 @@
     /*background-position: top;*/
        background-image: url(https://5minprotrader.com/wp-content/uploads/2019/12/hosting-company-01.png),linear-gradient(
 237deg,#0a9a73 0%,#14cd9b 100%)!important;
-    height: 10em;
+    height: 8em;
     background-repeat: round;
 }
 .demo-sec .wave-img{
@@ -85,10 +85,10 @@
     top: 125px;
 }
 .logo-img img {
-    position: absolute;
-    height: 101px;
-    left: 90%;
-    top: 6%;
+    position:relative;
+    height: 70px;
+    left: 1%;
+    top: -185%;
     z-index: 111111111111111111111111;
 }
 .bg-img img {
@@ -203,7 +203,6 @@ box-shadow: 0 0 40px #bbb;}
 /*UNLOCK START*/
 .unlock-sec {    padding: 115px 0;}
 .unlock-text h3 {
-    padding-top: 10px;
     font-size: 30px;
 }
 .unlock-text p {
@@ -396,17 +395,7 @@ box-shadow: 0 0 40px #bbb;}
 .unlock-img img {
     height: 32em;
     margin-top: -75px;
-    
 }
-
-.unlock-img1 img {
-    /*height: 32em;*/
-    margin-top: -75px;
-    box-shadow: 5px 10px;
-    width: 100%;
-    height: auto;
-}
-
 .foot-sec {
     padding: 335px 0;
     background-size: contain;
@@ -489,3 +478,49 @@ box-shadow: 0 0 40px #bbb;}
     margin-bottom: 25px;
 }
 
+
+
+
+
+
+.inner-car img {
+    height: 340px;
+    object-fit: cover;
+}
+.car2 {
+    padding: 57px 0 0;
+}
+.owl-nav {
+    position: absolute;
+    top: 43%;
+    font-size: 35px;
+}
+
+.owl-prev {
+    background: #ffc765 !important;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+    left: -26px;
+}
+.owl-next {
+    background: #ffc765 !important;
+    width: 50px;
+    border-radius: 30px;
+    position: relative;
+    left: 13.4em;
+}
+.contact-di i, span {
+    font-size: 23px;
+    position: absolute;
+    right: 17px;
+    top: 70px;
+}
+.contact-di span {
+    right: 45px;
+    font-size: 18px;
+}
+.contact-di i {
+    font-size: 23px;
+    top: 69px;
+}
